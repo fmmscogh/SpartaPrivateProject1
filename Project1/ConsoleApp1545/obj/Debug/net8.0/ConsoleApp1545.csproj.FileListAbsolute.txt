@@ -1,0 +1,14 @@
+E:\newFolder\Project1\ConsoleApp1545\bin\Debug\net8.0\ConsoleApp1545.exe
+E:\newFolder\Project1\ConsoleApp1545\bin\Debug\net8.0\ConsoleApp1545.deps.json
+E:\newFolder\Project1\ConsoleApp1545\bin\Debug\net8.0\ConsoleApp1545.runtimeconfig.json
+E:\newFolder\Project1\ConsoleApp1545\bin\Debug\net8.0\ConsoleApp1545.dll
+E:\newFolder\Project1\ConsoleApp1545\bin\Debug\net8.0\ConsoleApp1545.pdb
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.GeneratedMSBuildEditorConfig.editorconfig
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.AssemblyInfoInputs.cache
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.AssemblyInfo.cs
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.csproj.CoreCompileInputs.cache
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.dll
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\refint\ConsoleApp1545.dll
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.pdb
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ConsoleApp1545.genruntimeconfig.cache
+E:\newFolder\Project1\ConsoleApp1545\obj\Debug\net8.0\ref\ConsoleApp1545.dll
